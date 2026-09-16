@@ -26,12 +26,6 @@ Just a kid playing around with programming (hopefully not destroying anything)..
 
 MelonEngine is coming "soon"!
 
-## GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=omarwazhere&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarwazhere&layout=compact&theme=default)
-
 ## Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=omarwazhere&theme=default)
