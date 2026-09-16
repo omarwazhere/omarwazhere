@@ -14,7 +14,7 @@ Just a kid playing around with programming (hopefully not destroying anything)..
 - 🌱 I’m currently learning **Multithreading, and improving my OOP skills**
 - 💬 Ask me about **OOP**
 - ⚡ Fun fact: **I'm a human**
-- 💡 Working on: **MelonEngine**,, a simple game engine written in C++
+- 💡 Working on: **MelonEngine**, a simple game engine written in C++
 
 ## Tech Stack
 
