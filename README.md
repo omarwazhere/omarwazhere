@@ -28,7 +28,7 @@ MelonEngine is coming "soon"!
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=omarwazhere&show_icons=true&theme=default)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=omarwazhere&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarwazhere&layout=compact&theme=default)
 
